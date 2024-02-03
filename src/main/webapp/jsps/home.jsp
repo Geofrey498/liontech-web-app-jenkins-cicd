@@ -10,9 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to LION TECH Solutions</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over 1m millionaires by 2030.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Geofrey and Jj will be developing the TELLME APP soon!</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,7 +29,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/LION TECH.png" alt="" width="150">
+		<img src="images/SUBARU.AVIF" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
                 Lion Technology, 
